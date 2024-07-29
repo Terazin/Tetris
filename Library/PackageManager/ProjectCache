@@ -5,22 +5,22 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638507526722130293
-    m_Hash: 727241146
+      ticks: 638548540831088336
+    m_Hash: 582842879
   m_LockFileStatus:
     m_FilePath: C:/Users/victo/Documents/GitHub/Tetris/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638507526722162929
-    m_Hash: 2348869636
+      ticks: 638548541053639269
+    m_Hash: 146018820
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/victo/Documents/GitHub/Tetris/Packages
-m_EditorVersion: 2022.3.6f1 (b9e6e7e9fa2d)
+m_EditorVersion: 2022.3.22f1 (887be4894c44)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.3.1
   testable: 0
@@ -116,15 +116,8 @@ m_ResolvedPackages:
     - 2.2.0
     - 2.3.1
     compatible:
-    - 2.0.5
-    - 2.0.7
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
-    - 2.1.0
-    - 2.2.0
     - 2.3.1
-    recommended: 2.0.7
+    recommended: 2.3.1
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -162,7 +155,7 @@ m_ResolvedPackages:
     revision: 613362ccb4468f55ee42e0a35809fb9a61f3f8f1
     path: 
   unityLifecycle:
-    version: 2.0.5
+    version: 2.3.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -214,7 +207,7 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.ide.visualstudio
-    version: 2.0.18
+    version: 2.0.22
   - name: com.unity.test-framework
     version: 1.1.33
   - name: com.unity.ext.nunit
@@ -224,7 +217,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.ide.rider
-    version: 3.0.24
+    version: 3.0.28
   - name: com.unity.ide.vscode
     version: 1.2.5
   - name: com.unity.editorcoroutines
@@ -232,7 +225,7 @@ m_ResolvedPackages:
   - name: com.unity.performance.profile-analyzer
     version: 1.2.2
   - name: com.unity.testtools.codecoverage
-    version: 1.2.4
+    version: 1.2.5
   - name: com.unity.settings-manager
     version: 2.0.1
   keywords: []
@@ -383,6 +376,7 @@ m_ResolvedPackages:
     - 3.0.6
     - 3.0.7
     - 3.0.8
+    - 3.0.9
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -392,12 +386,14 @@ m_ResolvedPackages:
     - 3.2.0-pre.7
     - 3.2.0-pre.8
     - 3.2.0-pre.9
+    - 3.2.0-pre.10
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
     - 3.0.6
     - 3.0.7
     - 3.0.8
+    - 3.0.9
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -407,9 +403,10 @@ m_ResolvedPackages:
     - 3.2.0-pre.7
     - 3.2.0-pre.8
     - 3.2.0-pre.9
+    - 3.2.0-pre.10
     - 4.0.0-pre.1
     - 4.0.0-pre.2
-    recommended: 3.0.8
+    recommended: 3.0.9
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -453,12 +450,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.timeline@1.7.5
+- packageId: com.unity.timeline@1.7.6
   testable: 0
   isDirectDependency: 1
-  version: 1.7.5
+  version: 1.7.6
   source: 1
-  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.timeline@1.7.5
+  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.timeline@1.7.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -559,8 +556,8 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
+    - 1.8.7
     compatible:
-    - 1.7.5
     - 1.7.6
     - 1.8.0
     - 1.8.1
@@ -569,6 +566,7 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
+    - 1.8.7
     recommended: 1.7.6
     deprecated: []
   dependencies:
@@ -605,16 +603,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638229649600000000
+  datePublishedTicks: 638326112840000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: fdb1ca9a2c2a131e0ff9cb257b2eae3b53337b3a
+    revision: 02f49ada64a9f88044207cf42ba407dc634ef8e6
     path: 
   unityLifecycle:
-    version: 1.7.5
+    version: 1.7.6
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -693,12 +691,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.visualscripting@1.8.0
+- packageId: com.unity.visualscripting@1.9.2
   testable: 0
   isDirectDependency: 1
-  version: 1.8.0
+  version: 1.9.2
   source: 1
-  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.visualscripting@1.8.0
+  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.visualscripting@1.9.2
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -746,12 +744,9 @@ m_ResolvedPackages:
     - 1.9.2
     - 1.9.4
     compatible:
-    - 1.8.0
-    - 1.9.0
-    - 1.9.1
     - 1.9.2
     - 1.9.4
-    recommended: 1.8.0
+    recommended: 1.9.4
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -779,16 +774,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638060044680000000
+  datePublishedTicks: 638452551610000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 0de66378b19e990494d98f39ecc2b6aa5ac65351
+    revision: 0dd874ef58a75ee4b4df6a81e65230e2602096a3
     path: 
   unityLifecycle:
-    version: 1.8.0
+    version: 1.9.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -2696,12 +2691,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.visualstudio@2.0.18
+- packageId: com.unity.ide.visualstudio@2.0.22
   testable: 0
   isDirectDependency: 0
-  version: 2.0.18
+  version: 2.0.22
   source: 1
-  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
+  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -2710,7 +2705,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -2743,9 +2738,6 @@ m_ResolvedPackages:
     - 2.0.21
     - 2.0.22
     compatible:
-    - 2.0.18
-    - 2.0.20
-    - 2.0.21
     - 2.0.22
     recommended: 2.0.22
     deprecated: []
@@ -2772,28 +2764,28 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638173205920000000
+  datePublishedTicks: 638326061910000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 9d3c07127cbe1916b8abbfd18f71fb8d9df8008c
+    revision: 700b44077345e97d37d464ff25507638983aed64
     path: 
   unityLifecycle:
-    version: 2.0.18
+    version: 2.0.22
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.rider@3.0.24
+- packageId: com.unity.ide.rider@3.0.28
   testable: 0
   isDirectDependency: 0
-  version: 3.0.24
+  version: 3.0.28
   source: 1
-  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.ide.rider@3.0.24
+  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.ide.rider@3.0.28
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -2853,10 +2845,6 @@ m_ResolvedPackages:
     - 3.0.27
     - 3.0.28
     compatible:
-    - 3.0.24
-    - 3.0.25
-    - 3.0.26
-    - 3.0.27
     - 3.0.28
     recommended: 3.0.28
     deprecated: []
@@ -2877,16 +2865,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638221653400000000
+  datePublishedTicks: 638447139880000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: f5decc642e3618ce1c6827d47318260e61d64714
+    revision: f4880c72477e9bbd7321c0dbda4428fa10d916df
     path: 
   unityLifecycle:
-    version: 3.0.24
+    version: 3.0.28
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3234,12 +3222,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.testtools.codecoverage@1.2.4
+- packageId: com.unity.testtools.codecoverage@1.2.5
   testable: 0
   isDirectDependency: 0
-  version: 1.2.4
+  version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.testtools.codecoverage@1.2.4
+  resolvedPath: C:\Users\victo\Documents\GitHub\Tetris\Library\PackageCache\com.unity.testtools.codecoverage@1.2.5
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -3248,7 +3236,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Use this package to export code coverage data and reports from your
     automated tests. Additionally, the Code Coverage package offers a Coverage Recording
     feature which allows capturing coverage data on demand, for manual testing or
@@ -3289,7 +3277,6 @@ m_ResolvedPackages:
     - 1.2.4
     - 1.2.5
     compatible:
-    - 1.2.4
     - 1.2.5
     recommended: 1.2.5
     deprecated: []
@@ -3324,16 +3311,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638212235100000000
+  datePublishedTicks: 638386640140000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.testtools.codecoverage@1.2/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.testtools.codecoverage.git
-    revision: a7dd0751db55cd55e3b336723fb51433c1de7244
+    revision: afeb9febf6597fcc31c99ca116d6a82b1e97b9f5
     path: 
   unityLifecycle:
-    version: 1.2.4
+    version: 1.2.5
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0

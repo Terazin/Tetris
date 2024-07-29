@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\victo\\Documents\\GitHub\\Tetris\\assets\\script\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\victo\\Documents\\GitHub\\Tetris\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\Users\\victo\\Documents\\GitHub\\Tetris\\assets\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|c:\\users\\victo\\documents\\github\\tetris\\assets\\script\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Board.cs",
+              "ToolTip": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\Board.cs",
+              "RelativeToolTip": "Assets\\Script\\Board.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:21:03.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:06:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\Block.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Block.cs",
+              "ToolTip": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\Block.cs",
+              "RelativeToolTip": "Assets\\Script\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:01:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Spawner.cs",
+              "ToolTip": "C:\\Users\\victo\\Documents\\GitHub\\Tetris\\Assets\\Script\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Script\\Spawner.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:56:24.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
